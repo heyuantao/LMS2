@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/actions/infrastructureActions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/App/AddCourse.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/App/AddCourse/AddOrEditArrangmentModal.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/App/AllCourses.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/App/ClassRooms.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/App/EditCourse.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Services/ClassroomLessonData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/Services/CourseData.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reducers/infrastructureReducer.js" charset="UTF-8" />
+  </component>
+</project>

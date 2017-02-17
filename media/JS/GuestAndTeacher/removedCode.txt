@@ -1,0 +1,10 @@
+                        <Content style={{ padding: '0px 50px',miniWidth:"550px"}}>
+                            <Layout style={{ miniWidth:"650px"}}>
+                                <AppSideBar></AppSideBar>
+                                <Content style={{ padding: "0px 20px", minHeight:"550px",miniWidth:"400px" }}>
+                                    <div>
+                                        {this.props.children}
+                                    </div>
+                                </Content>
+                            </Layout>
+                        </Content>
